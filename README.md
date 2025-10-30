@@ -1,5 +1,8 @@
 # Full Stack Realtime Chat App
 
+Depolyed URL 
+- https://chat-application-h7oh.onrender.com
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
